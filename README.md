@@ -68,7 +68,11 @@ The what-if sizing (about 555 extra purchases per three months) is an illustrati
 
 ## Dashboard
 
-[Looker Studio dashboard](https://datastudio.google.com/reporting/efc98fa2-de21-40ff-9615-ab30915636c5)
+
+## Full write-up and dashboard
+
+- [Case study on Notion](https://animated-party-b31.notion.site/E-commerce-Funnel-Case-Study-3ef77fb4a1d980458c3fc34cbcb4eba5) (decision memo, results, RICE prioritisation, A/B test design)
+- [Looker Studio dashboard](https://datastudio.google.com/reporting/efc98fa2-de21-40ff-9615-ab30915636c5)
 
 ## Tools
 
